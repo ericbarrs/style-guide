@@ -122,13 +122,16 @@ h3 {
 	margin: 10px;
 	display: flex;
 }
+.inputfield_container {
+	width: 150px;
+}
 
 .form_elements_div h2 {
 	margin: 0;
 	flex: 1;
 }
 .form_elements_div label,
-input {
+.inputfield_container {
 	flex: 1;
 }
 
